@@ -3,8 +3,8 @@ name: "Norcal Science Association"
 title: "Norcal Science Association"
 description: "The official website for Norcal Science Association"
 meta_description: "Norcal Science Association"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/NSAlogo.png'
+favicon: 'assets/images/NSAlogo.png'
 paginate: 12
 baseurl: '/'
 email: 'Norcalscienceassociation@gmail.com'
