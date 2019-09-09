@@ -4,10 +4,6 @@ title: "Norcal Science Association"
 description: "The official website for Norcal Science Association"
 meta_description: "Norcal Science Association"
 logo: 'assets/images/NSAlogo.png'
-{
-  width: 50%;
-  height: auto;
-}
 favicon: 'assets/images/NSAlogo.ico'
 paginate: 12
 baseurl: '/'
